@@ -2,6 +2,6 @@
 
 ## c programs list
 
-### Hello World!
-### Basic calculator.
+### 1.Hello World!
+### 2.Basic calculator.
 
